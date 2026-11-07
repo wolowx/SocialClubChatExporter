@@ -12,8 +12,11 @@ Windows 本地工具：把 Social Club 私信历史导出为 **HTML / TXT / CSV 
 
 ### 切换到旧版 Home 菜单
 
-EPIC 点击游戏右方三个点 → 点击管理 → 启用启动选项 → 输入：
-Steam 库 → 右键 `Grand Theft Auto V` → **属性** → **启动选项**，填入：
+**Steam：** 库 → 右键 `Grand Theft Auto V` → **属性** → **启动选项**
+
+**Epic：** 库 → 点击游戏右侧的三个点 → **管理** → 启用**启动选项**
+
+在启动选项中填入：
 
 ```text
 -scDisableOverlayV3
