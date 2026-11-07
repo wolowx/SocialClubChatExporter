@@ -12,6 +12,7 @@ Windows 本地工具：把 Social Club 私信历史导出为 **HTML / TXT / CSV 
 
 ### 切换到旧版 Home 菜单
 
+EPIC 点击游戏右方三个点 → 点击管理 → 启用启动选项 → 输入：
 Steam 库 → 右键 `Grand Theft Auto V` → **属性** → **启动选项**，填入：
 
 ```text
