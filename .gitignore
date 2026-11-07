@@ -1,0 +1,17 @@
+# 独立 git 仓库 (外部克隆项目, 各自管理版本)
+deepseek-harness-zh-cn/
+.claude/
+
+# 临时目录 (pip 缓存等)
+_tmp/
+
+# Python 构建产物
+__pycache__/
+*.pyc
+wheels/
+.pytest_cache/
+
+# Social Club exporter build artifacts
+dist/
+build/work/
+build/*.spec

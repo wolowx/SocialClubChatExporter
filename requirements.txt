@@ -1,0 +1,2 @@
+mitmproxy==12.3.1
+cryptography>=42,<51
